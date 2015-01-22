@@ -1,0 +1,29 @@
+
+
+.formcontainer{
+    padding-left : 50px;
+}
+
+
+.active{
+    color : black;
+    background : white;
+}
+.invisible{
+	display : none;
+}
+
+.tableContainer{
+	padding : 50px;
+	margin-left : 5%;
+}
+.sub-navigation {
+	background-color: #D0DAE2;
+	margin-left: 10px;
+}
+
+
+.mediump{
+	font-weight: 600;
+	font-size: 20px;
+}

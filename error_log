@@ -1,0 +1,70 @@
+[19-Oct-2013 13:13:07 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 54
+[19-Oct-2013 13:13:14 Asia/Dhaka] PHP Fatal error:  Call to a member function select() on a non-object in /home/jhinukfa/public_html/inventory/application/models/group_model.php on line 16
+[19-Oct-2013 13:13:40 Asia/Dhaka] PHP Fatal error:  Call to a member function select() on a non-object in /home/jhinukfa/public_html/inventory/application/models/item_type_model.php on line 17
+[19-Oct-2013 13:16:31 Asia/Dhaka] PHP Fatal error:  Call to a member function select() on a non-object in /home/jhinukfa/public_html/inventory/application/models/item_type_model.php on line 17
+[19-Oct-2013 13:18:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 54
+[19-Oct-2013 13:18:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 54
+[19-Oct-2013 13:24:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/migration.php on line 33
+[19-Oct-2013 13:24:22 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 54
+[19-Oct-2013 13:25:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/migration.php on line 33
+[19-Oct-2013 13:27:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 33
+[19-Oct-2013 13:28:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/jhinukfa/public_html/inventory/application/controllers/item_type.php on line 33
+[19-Oct-2013 13:31:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/migration.php on line 34
+[19-Oct-2013 13:32:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/migration.php on line 34
+[19-Oct-2013 13:32:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/jhinukfa/public_html/inventory/application/controllers/migration.php on line 16
+[19-Oct-2013 13:39:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 33
+[19-Oct-2013 13:40:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 45
+[19-Oct-2013 13:42:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 46
+[19-Oct-2013 13:43:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 46
+[19-Oct-2013 13:50:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 40
+[19-Oct-2013 13:54:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$', expecting '&' or T_VARIABLE in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 16
+[19-Oct-2013 15:02:04 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/showroom.php on line 61
+[19-Oct-2013 15:28:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/showroom.php on line 60
+[19-Oct-2013 15:30:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/showroom.php on line 60
+[19-Oct-2013 15:31:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/showroom.php on line 60
+[19-Oct-2013 16:03:17 Asia/Dhaka] PHP Fatal error:  Call to undefined method Group_model::add_group() in /home/jhinukfa/public_html/inventory/application/controllers/group.php on line 29
+[19-Oct-2013 16:58:39 Asia/Dhaka] PHP Fatal error:  Call to undefined method Subgroup_model::create() in /home/jhinukfa/public_html/inventory/application/controllers/subgroup.php on line 28
+[19-Oct-2013 18:28:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/supplier.php on line 49
+[19-Oct-2013 18:28:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/supplier.php on line 49
+[19-Oct-2013 18:29:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/supplier.php on line 49
+[19-Oct-2013 19:53:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 19:53:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 19:53:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 19:54:01 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:00:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/supplier.php on line 49
+[19-Oct-2013 20:03:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:21 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:27 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:32 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:03:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[19-Oct-2013 20:08:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/supplier.php on line 49
+[19-Oct-2013 20:11:56 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/supplier.php on line 68
+[20-Oct-2013 08:38:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[20-Oct-2013 08:38:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[20-Oct-2013 08:38:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[20-Oct-2013 15:19:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/expense_type.php on line 64
+[20-Oct-2013 15:19:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/expense_type.php on line 64
+[20-Oct-2013 17:08:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[20-Oct-2013 17:10:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[20-Oct-2013 17:14:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[20-Oct-2013 17:14:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[20-Oct-2013 17:15:01 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/models/item_model.php on line 40
+[25-Oct-2013 17:09:38 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547758 bytes) in /home/jhinukfa/public_html/inventory/application/controllers/test.php on line 71
+[25-Oct-2013 17:09:45 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547758 bytes) in /home/jhinukfa/public_html/inventory/application/controllers/test.php on line 71
+[29-Oct-2013 22:18:58 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/test.php on line 85
+[20-Aug-2014 18:57:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/survey.php on line 76
+[20-Aug-2014 18:57:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/survey.php on line 76
+[20-Aug-2014 18:57:56 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/survey.php on line 76
+[20-Aug-2014 18:57:58 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/survey.php on line 76
+[20-Aug-2014 18:58:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/survey.php on line 76
+[20-Aug-2014 19:01:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '[' in /home/jhinukfa/public_html/inventory/application/controllers/survey.php on line 78
+[25-Sep-2014 12:42:21 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/jhinukfa/public_html/inventory/application/controllers/items.php on line 167
+[25-Sep-2014 12:45:53 Asia/Dhaka] PHP Warning:  Unterminated comment starting line 193 in /home/jhinukfa/public_html/inventory/system/core/Input.php on line 193
+[25-Sep-2014 12:45:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/jhinukfa/public_html/inventory/system/core/Input.php on line 193
